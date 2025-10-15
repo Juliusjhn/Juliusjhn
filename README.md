@@ -2,7 +2,7 @@
 - 👀 I’m interested in typing
 - 🌱 I’m currently learning by doing
 - 💞️ I’m looking to collaborate on future
-- 📫 How to reach me ...
+- 📫 How to reach me on email at juliusjohan2000@gmail.com
 
 <!---
 Juliusjhn/Juliusjhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
